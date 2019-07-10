@@ -1,0 +1,6 @@
+framework module Pods_GetMyParkingAssignment {
+  umbrella header "Pods-GetMyParkingAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
