@@ -15,15 +15,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     
     static var cloudName: String {
-        return "dhqf9cv4a"
+        return "Enter Your Cloud Name Here"
     }
 
     static var uploadPreset: String {
-        return "gaurav_gmp_sample"
+        return "Enter Your Upload Preset Here"
     }
     
     static var apiKey: String {
-        return "623566191312274"
+        return "Enter Your API Key Here"
     }
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
